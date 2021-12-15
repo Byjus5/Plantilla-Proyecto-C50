@@ -1,5 +1,5 @@
 .menu {
-  /* add correct code to place the menu correctly.*/
+  /* agrega el código correcto para colocar el menú correctamente.*/
 
   background-color: black;
   font-size: 30px;
@@ -11,8 +11,8 @@ body {
   background-color: whitesmoke;
 }
 .grid {
-  /* add correct code to place the grid elements 
-  one beside the other equally.   */
+  /* agrega el código correcto para colocar los elementos grid  
+  uno junto al otro de igual forma.   */
 
   flex-wrap: wrap;
   font-family: sans-serif;
